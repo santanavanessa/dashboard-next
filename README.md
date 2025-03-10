@@ -12,13 +12,13 @@ Shadcn UI - Componentes acessíveis e elegantes
 
 Recharts - Biblioteca para visualização de dados
 
-🖥️ Preview
+## 🖥️ Preview
 
 🔗 Acesse o projeto
 
 O projeto está disponível em: [Link para o deploy](https://dashboard-next-one-ivory.vercel.app/)
 
-🛠️ Como executar o projeto
+## 🛠️ Como executar o projeto
 
 1️⃣ Clone o repositório
 
@@ -40,6 +40,6 @@ npm run dev
  ou
 yarn dev
 
-📜 Licença
+## 📜 Licença
 
 Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
