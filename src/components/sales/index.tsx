@@ -13,7 +13,7 @@ export default function Sales() {
                     <CircleDollarSign className="ml-auto w-4 h-4"/>
                 </div>
                 <CardDescription>
-                    Novos clientes nas úlitmas 24 horas
+                    Novos clientes nas últimas 24 horas
                 </CardDescription>
             </CardHeader>
 
