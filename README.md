@@ -1,4 +1,4 @@
-📊 Dashboard
+# 📊 Dashboard
 
 Um dashboard moderno e responsivo desenvolvido com Next.js, Tailwind CSS e Shadcn UI. Exibe informações financeiras essenciais, incluindo receitas, despesas, lucro e novos clientes. Além disso, apresenta um gráfico de vendas dos últimos 12 meses e uma lista dos clientes mais recentes.
 
@@ -22,7 +22,7 @@ O projeto está disponível em: [Link para o deploy](https://dashboard-next-one-
 
 1️⃣ Clone o repositório
 
-git clone https://github.com/santanavanessa/dashboard-next.git
+git clone [https://github.com/santanavanessa/dashboard-next.git]
 
 2️⃣ Acesse a pasta do projeto
 
@@ -31,13 +31,13 @@ cd nome-do-repositorio
 3️⃣ Instale as dependências
 
 npm install
-# ou
+ ou
 yarn install
 
 4️⃣ Inicie o servidor de desenvolvimento
 
 npm run dev
-# ou
+ ou
 yarn dev
 
 📜 Licença
